@@ -46,7 +46,7 @@ TOPIC_NAME = "Running Yammer API Notebook"
 
 // Read about the Yammer RAML API at https://anypoint.mulesoft.com/apiplatform/popular/admin/#/dashboard/apis/8041/versions/8205/contracts
 
-API.createClient('client', '/apiplatform/repository/public/organizations/30/apis/8041/versions/8205/definition');
+API.createClient('client', '#REF_TAG_DEFENITION');
 
 ```
 
